@@ -14,7 +14,7 @@ you start.
 3. Open [ModNao](https://modnao.vercel.app) and click **Import files**.
 4. Select all of the listed files together.
 5. Click **Import files** again and select the `.mnp.zip` patch **by itself**.
-6. Click **EXPORT MODELS** for a listed POL file and **Export Texture BIN** for
+6. Click **Export Models** for a listed POL file and **Export Texture BIN** for
   a listed TEX file.
 7. ModNao adds `.mn` to each exported filename. Remove `.mn`, replace the
    matching original files, then add them back to your game.
