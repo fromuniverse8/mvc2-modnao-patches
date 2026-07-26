@@ -33,7 +33,7 @@ original.
 
 | Preview | Patch | Files to load | Creator |
 | --- | --- | --- | --- |
-| <img src="./stg05.coral-cave.png" alt="Coral Cave Stage in gameplay" width="320"> | **Coral Cave Stage**<br>Coral-toned cave with bright blue water.<br><br>[Download patch](./stg05.coral-cave.mnp.zip) | `STG05POL.BIN`<br>`STG05TEX.BIN` | rob2d |
+| <img src="./stg05.coral-cave.png" alt="Coral Cave Stage in gameplay" width="320"> | **Coral Cave Stage**<br>Coral-toned cave with bright blue water. The floating grave now says "Where's mahvel" in Japanese (made pre-MVCC)<br><br>[Download patch](./stg05.coral-cave.mnp.zip) | `STG05POL.BIN`<br>`STG05TEX.BIN` | rob2d |
 | <img src="./stg09.psychadelic-dark.png" alt="Psychedelic dark Airship Stage in gameplay" width="320"> | **Psychedelic Dark Airship Stage**<br>Dark Airship stage with vivid neon colors.<br><br>[Download patch](./stg09.psychadelic-dark.mnp.zip) | `STG09POL.BIN`<br>`STG09TEX.BIN` | rob2d |
 | <img src="./stg0b.purple-blue-dark-training.png" alt="Purple and blue dark Training Stage in gameplay" width="320"> | **Purple/Blue Dark Training Stage**<br>Dark background with a purple and blue grid.<br><br>[Download patch](./stg0b.purple-blue-dark-training.mnp.zip) | `STG0BPOL.BIN`<br>`STG0BTEX.BIN` | rob2d |
 | <img src="./stg0b.red-tech.png" alt="Red Tech Training Stage in gameplay" width="320"> | **Red Tech Training Stage**<br>Dark red grid with a glowing orange platform.<br><br>[Download patch](./stg0b.red-tech.mnp.zip) | `STG0BPOL.BIN`<br>`STG0BTEX.BIN` | rob2d |
