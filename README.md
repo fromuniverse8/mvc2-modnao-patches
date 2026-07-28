@@ -33,6 +33,7 @@ original.
 
 | Preview | Patch | Files to load | Creator |
 | --- | --- | --- | --- |
+| <img src="./stg00.sunset.png" alt="Airship Sunset Stage in gameplay" width="320"> | **Airship (Sunset)**<br>A warmer sunset version of the Airship Stage.<br><br>[Download patch](./stg00.sunset.mnp.zip) | `STG00POL.BIN`<br>`STG00TEX.BIN` | herb |
 | <img src="./stg00.cardboard.png" alt="Cardboard Flying Clubhouse in gameplay" width="320"> | **Cardboard Flying Clubhouse**<br>Airship rebuilt with cardboard, paper, TLC and some duct tape.<br><br>[Download patch](./stg00.cardboard.mnp.zip) | `STG00POL.BIN`<br>`STG00TEX.BIN` | rob2d |
 | <img src="./stg04.moonlight.png" alt="Moonlight Swamp Stage in gameplay" width="320"> | **Moonlight Swamp Stage**<br>An atmospheric moonlit variant of the Swamp Stage.<br><br>[Download patch](./stg04.moonlight.mnp.zip) | `STG04POL.BIN`<br>`STG04TEX.BIN` | herb |
 | <img src="./stg05.coral-cave.png" alt="Coral Cave Stage in gameplay" width="320"> | **Coral Cave Stage**<br>Coral-toned cave with bright blue water. The floating grave now says "Where's mahvel" in Japanese (made pre-MVCC)<br><br>[Download patch](./stg05.coral-cave.mnp.zip) | `STG05POL.BIN`<br>`STG05TEX.BIN` | rob2d |
